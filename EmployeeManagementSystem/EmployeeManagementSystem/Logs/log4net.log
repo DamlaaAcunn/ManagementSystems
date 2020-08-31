@@ -1,0 +1,3 @@
+2020-08-31 12:01:46,598 INFO MYBSH - DepartmentController Start 
+2020-08-31 12:01:48,464 INFO MYBSH - GetDepartments  start
+2020-08-31 12:01:48,963 INFO MYBSH - GetDepartments  end[{"Id":1,"DepartmentName":"IT","Manager":"Damla","LocationId":1},{"Id":2,"DepartmentName":"Muhasebe","Manager":"Bahar","LocationId":1}]

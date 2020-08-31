@@ -1,0 +1,9 @@
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\Utilities\bin\Debug\Utilities.dll
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\Utilities\bin\Debug\log4net.dll
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\Utilities\bin\Debug\log4net.xml
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\Utilities\obj\Debug\Utilities.csprojAssemblyReference.cache
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\Utilities\obj\Debug\Utilities.dll
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\Utilities\obj\Debug\Utilities.pdb

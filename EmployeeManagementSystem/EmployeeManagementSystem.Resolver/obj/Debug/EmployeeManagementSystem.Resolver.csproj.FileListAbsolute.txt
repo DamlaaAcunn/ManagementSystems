@@ -1,0 +1,7 @@
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.Resolver\obj\Debug\EmployeeManagementSystem.Resolver.csprojAssemblyReference.cache
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.Resolver\obj\Debug\EmployeeManagementSystem.Resolver.csproj.CoreCompileInputs.cache
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.Resolver\bin\Debug\EmployeeManagementSystem.Resolver.dll
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.Resolver\bin\Debug\EmployeeManagementSystem.Resolver.pdb
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.Resolver\obj\Debug\EmployeeManagementSystem.Resolver.csproj.CopyComplete
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.Resolver\obj\Debug\EmployeeManagementSystem.Resolver.dll
+C:\Users\Damla Acun\source\repos\EmployeeManagementSystem\EmployeeManagementSystem.Resolver\obj\Debug\EmployeeManagementSystem.Resolver.pdb
